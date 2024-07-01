@@ -4,4 +4,5 @@
    ./build-dependency.sh
 ## Build
 cmake -DCMAKE_BUILD_TYPE=Release ..
+
 make
