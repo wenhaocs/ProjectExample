@@ -1,7 +1,7 @@
-1. Clone
+## Clone
    git clone --recurse-submodules https://github.com/wenhaocs/ProjectExample.git
-2. Build dependency
+## Build dependency
    ./build-dependency.sh
-3. Build
+## Build
 cmake -DCMAKE_BUILD_TYPE=Release ..
 make
